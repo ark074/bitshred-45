@@ -1,0 +1,47 @@
+{
+  "ingest": [
+    {
+      "title": "Coral Survey 2025",
+      "description": "Coral reef health metrics",
+      "filename": null,
+      "timestamp": "2025-01-01T00:00:00Z"
+    },
+    {
+      "title": "Plankton Study 2025",
+      "description": "Plankton abundance",
+      "filename": null,
+      "timestamp": "2025-01-05T00:00:00Z"
+    }
+  ],
+  "otolith": [
+    {
+      "species": "Tuna",
+      "length_mm": 34,
+      "filename": null,
+      "timestamp": "2025-01-02T00:00:00Z"
+    },
+    {
+      "species": "Salmon",
+      "length_mm": 31,
+      "filename": null,
+      "timestamp": "2025-01-06T00:00:00Z"
+    }
+  ],
+  "edna": [
+    {
+      "sample_id": "E1",
+      "species_detected": [
+        "Shark",
+        "Tuna"
+      ],
+      "timestamp": "2025-01-03T00:00:00Z"
+    },
+    {
+      "sample_id": "E2",
+      "species_detected": [
+        "Anchovy"
+      ],
+      "timestamp": "2025-01-07T00:00:00Z"
+    }
+  ]
+}
